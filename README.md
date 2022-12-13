@@ -1,12 +1,12 @@
-# E-commerce empresa X
-Este é um e-commerce para a empresa X, feito em PHP e MySQL
+# Este é o Curso de GIT
 
-## Funcionalidades:
+Curso de Git & GitHub voltado para o aprendizado das funcionalidades do Versionamento de Código
 
-- Checkout, 
+## Finalidade
 
-- Tela de Produto, 
-
-- Catálogo, 
-
-- Home com Banner
+- Fundamentos de GIT
+- Trabalhando com Branches
+- Compartilhamento e Atuailizaçao de Repositórios
+- Fundamentos do GitHub
+- Técnicas de Markdown do básico ao avançado
+- Portófio com GitHub Pages
