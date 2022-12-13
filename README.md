@@ -49,4 +49,4 @@
 
 ## Referências
 
-[!Curso Udemy](https://www.udemy.com/course/git-e-github-do-basico-ao-avancado-c-gist-e-github-pages/)
+![Curso Udemy](https://www.udemy.com/course/git-e-github-do-basico-ao-avancado-c-gist-e-github-pages/)
