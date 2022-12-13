@@ -4,9 +4,9 @@
 
 ## Finalidade
 
-- **Fundamentos de GIT**
-- **Trabalhando com Branches**
-- **Compartilhamento e Atuailizaçao de Repositórios**
-- **Fundamentos do GitHub**
-- **Técnicas de Markdown do básico ao avançado**
-- **Portófio com GitHub Pages**
+1. **Fundamentos de GIT**
+2. **Trabalhando com Branches**
+3. **Compartilhamento e Atuailizaçao de Repositórios**
+4. **Fundamentos do GitHub**
+5. **Técnicas de Markdown do básico ao avançado**
+6. **Portófio com GitHub Pages**
