@@ -47,6 +47,25 @@
 
 ![Comandos Fundamentais](img1.png)
 
+## Linguagens Utilizadas
+
+``` SQL
+SELECT 
+   *
+FROM database
+``` 
+
+``` Python
+def soma(a, b):
+    return a + b
+```
+
+``` javascript 
+function soma(a, b){
+    return a + b;
+}
+```
+
 ## Referências
 
 [Curso Udemy - Git e GitHub do básico ao avançado (c/ gist e GitHub Pages)](https://www.udemy.com/course/git-e-github-do-basico-ao-avancado-c-gist-e-github-pages/)
