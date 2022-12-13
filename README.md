@@ -45,4 +45,4 @@
 
 *git fetch* - recebe todas as branchs existentes no repositório remoto;
 
-![Comandos Fundamentais](RESUMO_GIT\01_primeiro_repo\img1.png)
+![Comandos Fundamentais](img1.png)
