@@ -66,6 +66,15 @@ function soma(a, b){
 }
 ```
 
+## Objetivos do Curso
+
+- [x] Fundamentos de GIT
+- [x] Trabalhando com Branches
+- [x] Compartilhamento e Atuailizaçao de Repositórios
+- [x] Fundamentos do GitHub
+- [x] Técnicas de Markdown do básico ao avançado
+- [x] Portófio com GitHub Pages
+
 ## Referências
 
 [Curso Udemy - Git e GitHub do básico ao avançado (c/ gist e GitHub Pages)](https://www.udemy.com/course/git-e-github-do-basico-ao-avancado-c-gist-e-github-pages/)
